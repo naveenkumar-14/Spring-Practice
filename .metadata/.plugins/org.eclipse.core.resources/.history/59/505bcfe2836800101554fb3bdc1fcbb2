@@ -1,0 +1,13 @@
+
+public class TestCar {
+	
+	
+	
+	public static void main(String[] args) {
+		DieselEngine de=new DieselEngine();
+		PetrolEngine pe=new PetrolEngine();
+		Car c=new Car();
+		c.setEngine(pe);
+		c.drive();
+	}
+}

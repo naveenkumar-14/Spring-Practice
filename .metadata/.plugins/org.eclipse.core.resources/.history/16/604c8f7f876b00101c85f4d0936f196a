@@ -1,0 +1,13 @@
+
+public class Customer {
+	public static void main(String[] args) {
+		Cash c =new Cash();
+		DebitCard dc=new DebitCard();
+		CreditCard cc=new CreditCard();
+		Shopping s=new Shopping();
+		s.p=c;
+		s.doPayment(400);
+			
+		
+	}
+}

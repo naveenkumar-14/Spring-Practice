@@ -1,0 +1,7 @@
+package com.naveen.Beans;
+
+public class CreditCard {
+	public CreditCard() {
+		System.out.println("Credit card object created");
+	}
+}

@@ -1,0 +1,27 @@
+package com.naveen.Beans;
+
+public class Car {
+	Engine engine;
+	public Car() {
+		System.out.println("car objected created");
+	}
+	public void setEngine(Engine engine) {
+		this.engine = engine;
+	}
+	public Car(Engine engine) {
+		System.out.println("Object created with param constructor");
+		System.out.println("Constructor injection");
+		this.engine = engine;
+	}
+	void drive() {
+		if(engine!=null) {
+			engine.start();
+			System.out.println("Journey ended");
+			engine.stop();
+		}else {
+			System.out.println("No engine available");
+		}
+	}
+	
+	
+}

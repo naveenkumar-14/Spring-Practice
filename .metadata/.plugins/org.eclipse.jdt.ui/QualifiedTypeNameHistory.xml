@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="Engine"/>
+    <fullyQualifiedTypeName name="DieselEngine"/>
+    <fullyQualifiedTypeName name="PetrolEngine"/>
+    <fullyQualifiedTypeName name="Cash"/>
+    <fullyQualifiedTypeName name="DebitCard"/>
+    <fullyQualifiedTypeName name="CreditCard"/>
+    <fullyQualifiedTypeName name="Shopping"/>
+    <fullyQualifiedTypeName name="Payment"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.CreditCard"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.DebitCard"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.Payment"/>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.Shopping"/>
+</qualifiedTypeNameHistroy>

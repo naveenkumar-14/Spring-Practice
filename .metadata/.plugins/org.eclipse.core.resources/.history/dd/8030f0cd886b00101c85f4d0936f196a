@@ -1,0 +1,11 @@
+
+public class Shopping {
+	Payment p;
+	void doPayment(int amt) {
+		if(p!=null) {
+			p.pay(amt);
+		}else {
+			System.out.println("No Payment mode selected");
+		}
+	}
+}

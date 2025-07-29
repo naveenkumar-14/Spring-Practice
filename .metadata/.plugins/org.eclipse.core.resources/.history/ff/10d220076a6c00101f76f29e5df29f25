@@ -1,0 +1,16 @@
+package com.naveen.Beans;
+
+public class Car {
+	Engine engine;
+	public Car() {
+		System.out.println("car objected created");
+	}
+	public void setEngine(Engine engine) {
+		this.engine = engine;
+	}
+	public Car(Engine engine) {
+		this.engine = engine;
+	}
+	
+	
+}
