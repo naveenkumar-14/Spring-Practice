@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\Spring_Pentagon\2_IOC\src\main\java\com\naveen\Beans\DieselEngine.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -43,12 +44,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.naveen"/>
+			<item value="com.beanScope"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="1_IOC"/>
+			<item value="3_BeanScopes"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

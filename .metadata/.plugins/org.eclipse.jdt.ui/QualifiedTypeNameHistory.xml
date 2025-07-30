@@ -12,9 +12,14 @@
     <fullyQualifiedTypeName name="Payment"/>
     <fullyQualifiedTypeName name="com.naveen.Beans.CreditCard"/>
     <fullyQualifiedTypeName name="com.naveen.Beans.DebitCard"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.naveen.Beans.Payment"/>
     <fullyQualifiedTypeName name="javax.naming.Context"/>
     <fullyQualifiedTypeName name="com.naveen.Beans.Shopping"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.Engine"/>
+    <fullyQualifiedTypeName name="com.naveen.Beans.PetrolEngine"/>
+    <fullyQualifiedTypeName name="java.applet.AppletContext"/>
+    <fullyQualifiedTypeName name="Student"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="Employee"/>
 </qualifiedTypeNameHistroy>
