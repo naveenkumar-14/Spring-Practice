@@ -44,11 +44,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.naveen"/>
 			<item value="com.beanScope"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="7_Annotation"/>
+			<item value="6_Annotation_2_DI"/>
+			<item value="5_Annotations_1"/>
+			<item value="4_Autowiring"/>
 			<item value="3_BeanScopes"/>
 		</list>
 		<list key="projectNameTemplate">

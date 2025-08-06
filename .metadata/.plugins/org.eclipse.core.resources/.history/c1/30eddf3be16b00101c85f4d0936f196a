@@ -1,7 +1,0 @@
-package com.naveen.Beans;
-
-public class Cash {
-	public Cash(){
-		System.out.println("Cash object created");
-	}
-}

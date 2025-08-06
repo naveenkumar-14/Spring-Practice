@@ -1,7 +1,0 @@
-package com.naveen.Beans;
-
-public class DebitCard {
-	public DebitCard() {
-		System.out.println("Debit card object created");
-	}
-}

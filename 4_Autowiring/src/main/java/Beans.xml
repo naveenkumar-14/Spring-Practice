@@ -15,11 +15,14 @@
      <!-- autowiring byType -->
 <!--    <bean id="debit" class="com.autowiring.DebitCard" ></bean>-->
 <!--	<bean id="credit" class="com.autowiring.CreditCard" autowire-candidate="false"></bean>-->
+<!--	<bean id="shopping" class="com.autowiring.Shopping" autowire="byType" ></bean>-->    
+<!--	<bean id="debit" class="com.autowiring.DebitCard" primary="true"></bean>-->
+<!--	<bean id="credit" class="com.autowiring.CreditCard" ></bean>-->
 <!--	<bean id="shopping" class="com.autowiring.Shopping" autowire="byType" ></bean>-->
-    
-    
+	
+	
 	<bean id="debit" class="com.autowiring.DebitCard" ></bean>
-	<bean id="credit" class="com.autowiring.CreditCard" autowire-candidate="false"></bean>
-	<bean id="shopping" class="com.autowiring.Shopping" autowire="byType" ></bean>
+	<bean id="p" class="com.autowiring.CreditCard" ></bean>
+	<bean id="shopping" class="com.autowiring.Shopping" autowire="no " ></bean>
 	
 </beans>
